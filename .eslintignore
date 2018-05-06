@@ -1,7 +1,0 @@
-node_modules/**
-dist/**
-*.spec.js
-
-src/static
-src/styles
-**/*.scss
