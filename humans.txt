@@ -1,0 +1,7 @@
+# Check it out: http://humanstxt.org/
+
+# TEAM
+
+    David Leitner -- Developer -- @duffleit
+    Thomas Eizinger -- Developer -- @oetzn
+    Matthias Kreuzriegler -- Developer -- @Mkreuzriegler
